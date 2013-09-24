@@ -13,8 +13,11 @@ To utilize these tools and analytics, after deploying your development environme
 The scaffold provides the following grunt methods:
 
 `grunt` - deploys the development environment with live reload.  This environment runs testing, doc gen, and analytics!
+
 `grunt build` - performs a build
+
 `grunt dist` - performs a build, bumps the version (hotfix), and pushes to your repo!
+
 
 To use it, clone the project to your `~/.grunt-init` folder and follow the instructions here:  http://gruntjs.com/project-scaffolding
 
