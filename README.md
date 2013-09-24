@@ -1,4 +1,4 @@
-grunt-init-angular-service
+Angular Module Scaffold
 ==========================
 
 A grunt-init scaffold for reusable Angular Modules.
